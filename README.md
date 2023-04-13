@@ -3,9 +3,17 @@
 - 📝 I'm studying [React](https://react.dev) with JavaScript.
 - ⚒️ I’m currently working full-time as a diagrams designer for fire fighting facilities.
 - 👩🏻‍🎨 I do photography and acrylic painting as a hobby. 
-- ✨ _I'm Looking for my first developer role_. ✨
+- ✨ _I'm looking for my first developer proyect_. ✨
 
 <br/>
+
+## What I've been doing
+
+- I have worked in the development of quality processes, continuous improvement and procedure documentation, as well as in the development of workflows, organizational charts, job descriptions, project planning and execution since the creation of the company I am currently with. Although I don't have a degree for all this, I am a very resourceful person and I love to research and solve problems.
+- I'm a Graphic Designer from Universidad de Buenos Aires.
+- Also, as I work in a fire prevention company, I'm a technician in occupational safety and environmental hygiene.
+
+<br />
 
 <a href="https://twitter.com/PennyMSL">
 <img align="left" alt="Maria Soledad Lanfranconi - Twitter" width="24px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ff0000" style="margin-right: 20px;" />
@@ -19,14 +27,6 @@
 
 <br />
 
-## What I've been doing
-
-- I have worked in the development of quality processes, continuous improvement and procedure documentation, as well as in the development of workflows, organizational charts, job descriptions, project planning and execution since the creation of the company I am currently with. Although I don't have a degree for all this, I am a very resourceful person and I love to research and solve problems.
-- I'm a Graphic Designer from Universidad de Buenos Aires.
-- Also, as I work in a fire prevention company, I'm a technician in occupational safety and environmental hygiene.
-
-<br />
-
 ## Languages and Tools
 
 - Semantic HTML
@@ -37,6 +37,7 @@
 - Figma
 - Illustrator
 - Photoshop
+- [English](www.efset.org/cert/TwMsCn)
 
 ---
 
